@@ -1,8 +1,7 @@
-#BEM VINDOS AO MEU PERRFil
+Boas vindas ao meu perfil 💙💙
 meu nome é luana barbosa chiarelli
 estou estudando no ALURA 
 estou me desenvolvendo na liguagem JavaScript
 utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos 
-VOCE PODE ETRAR EM CONTATO COMIGO 
+Você pode entrar em contato comigo 📫
 luanachiarelli55@gmail.com
-![](link)
